@@ -14,12 +14,17 @@ Along with a elegant design, ChatBox is a fully funtional chat app.
   
 </p>
 
+### Resources
+<ul>
+  <li><a href="https://pub.dev/"> Pub.dev</a></li>
+  <li><a href="https://flutter.dev/docs">Flutter Documentation</a></li>
+  <li><a href="https://firebase.google.com/">Firebase</a></li>
+</ul>
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started with is your Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
